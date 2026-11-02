@@ -4,7 +4,7 @@
 
 - 📄 [분석 보고서 (PDF)](reports/report.pdf) · 📊 [발표자료 (PDF)](reports/presentation.pdf) · 📓 [분석 노트북](notebooks/edu_subscription_conversion_analysis.ipynb)
 - **기간**: 2026.07.16 – 2026.08.11
-- **인원**: 팀 6인 (강성재, 박고은, 우지연, 장선민, 전재원, 조진항)
+- **인원**: 팀 6인
 - **도구**: SQL (MySQL), Python (pandas, SQLAlchemy, matplotlib), Google Colab
 
 ## 문제 정의
